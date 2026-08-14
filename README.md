@@ -50,8 +50,7 @@ Sistem ini dirancang untuk mengatasi permasalahan hilangnya kesadaran (*awarenes
 
 |<img src="docs/images/andon_display.png" width="400" alt="Main TV Monitor Display"/><br>**1. Tampilan Monitor Utama (Processing GUI)** | <img src="docs/images/inductive_sensor.png" width="400" alt="Sensor Induktif Turck"/><br>**2. Pemasangan Sensor Induktif Turck 24V** |
 |:---:|:---:|
-|<img src="docs/images/relay_interface.png" width="400" alt="Relay Interface Box"/><br>**3. Modul Interfacing Relay 24V ke 5V Arduino** | <img src="docs/images/plc_installation.png" width="400" alt="PLC Maintenance"/><br>**4. Pengintegrasian dengan Panel Industri** |
-
+|<img src="docs/images/relay_interface.jpg" width="400" alt="Relay Interface Box"/><br>**3. Modul Interfacing Relay 24V ke 5V Arduino** 
 ---
 
 ## ✨ Fitur-Fitur Utama
