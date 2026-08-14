@@ -50,7 +50,7 @@ Sistem ini dirancang untuk mengatasi permasalahan hilangnya kesadaran (*awarenes
 
 |<img src="docs/images/main_display.png" width="400" alt="Main TV Monitor Display"/><br>**1. Tampilan Monitor Utama (Processing GUI)** | <img src="docs/images/inductive_sensor.png" width="400" alt="Sensor Induktif Turck"/><br>**2. Pemasangan Sensor Induktif Turck 24V** |
 |:---:|:---:|
-|<img src="docs/images/relay_interface.jpg" width="400" alt="Relay Interface Box"/><br>**3. Modul Interfacing Relay 24V ke 5V Arduino** |<img src="docs/images/skema.jpg" width="400" alt="Relay Interface Box"/><br>**4. Elektrikal Skematik Integrasi Dengan Sistem Mizone** 
+|<img src="docs/images/relay_interface.jpg" width="400" alt="Relay Interface Box"/><br>**3. Modul Interfacing Relay 24V ke 5V Arduino** |<img src="docs/images/skema.png" width="400" alt="Arduino to mizone"/><br>**4. Elektrikal Skematik Integrasi Dengan Sistem Mizone** 
 ---
 
 ## ✨ Fitur-Fitur Utama
